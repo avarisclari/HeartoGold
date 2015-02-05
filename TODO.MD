@@ -3,4 +3,4 @@
 * Still image support
 * Custom interface for better readability across machines
 * Assigned keys
-
+* Music support
