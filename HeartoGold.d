@@ -1,3 +1,5 @@
+//#!/usr/bin/env rdmd
+
 import std.stdio;
 import core.stdc.stdlib;
 import std.process;
